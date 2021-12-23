@@ -1,7 +1,5 @@
 # Portainer Project
 
-# Name
-
 ## Description
 
 Este projeto é composto por um arquivo do tipo docker-compose responsável por subir o portainer já se conectando com o ambiente de desenvolvimento local.
@@ -19,6 +17,6 @@ Este projeto é composto por um arquivo do tipo docker-compose responsável por 
 ## Authors
 
 - Tiago Pala Baraúna
-    - [Linkedin](linkedin.com/in/tiago-pala/)
+    - [Linkedin](https://linkedin.com/in/tiago-pala/)
     - [Twitter](https://twitter.com/tiagopala98)
     - [Gitlab](https://gitlab.com/tiagopala)
